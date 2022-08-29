@@ -19,7 +19,7 @@ if (idade >= 18) {
 }
 console.log("===========================================================================")
 
-var idade = 32
+var idade = 31
 var sexo = 'M'
 var nome = "Billy"
 if (idade >= 18) {
