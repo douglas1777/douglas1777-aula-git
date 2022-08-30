@@ -1,4 +1,4 @@
-console.log("VALEU PELA AULA!\n\n")
+console.log("VALEU PELA AULA oh oh !\n\n")
 console.log("░░░░░░░░░░░░░░░░░░░░░░█████████" +
     "░░███████░░░░░░░░░░███▒▒▒▒▒▒▒▒███" +
     "░░█▒▒▒▒▒▒█░░░░░░░███▒▒▒▒▒▒▒▒▒▒▒▒▒███" +
